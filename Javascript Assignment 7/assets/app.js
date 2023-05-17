@@ -30,7 +30,7 @@
  //// Task #4 ; 
         //  var carFuel = +prompt (" Enter Fuel in litre" );
         //  if (carFuel < 0.25  ) {
-        //     alert ( " You need more fuel"); }
+        //     alert ( “Please refill the fuel in your car”); }
 
  //// Task # 5 ;
         //a) condition is true;
